@@ -18,7 +18,7 @@ body {
   .book-items {
     position: relative;
     cursor: default;
-    padding: 30px;
+    padding: 20px;
     margin: 0;
     display: grid;
     break-inside: avoid;
