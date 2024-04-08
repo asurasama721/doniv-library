@@ -150,5 +150,6 @@ body {
   @media only screen and (max-width: 800px) {
     body{
       background-attachment: fixed;
+         background-repeat: repeat;
     }
   }  
